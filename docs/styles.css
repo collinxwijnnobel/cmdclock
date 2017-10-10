@@ -1,13 +1,13 @@
 html{
     size: 100%;
-    background-image: url('img/background.jpg');
+    background-image: url('docs/img/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 body{
 
-    background-image: url('img/cmdwindow.png');
+    background-image: url('docs/img/cmdwindow.png');
     background-size: auto;
     background-repeat: no-repeat;
 }
